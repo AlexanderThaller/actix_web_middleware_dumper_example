@@ -1,0 +1,12 @@
+[package]
+name = "actix_web_middleware_dumper_example"
+version = "0.1.0"
+authors = ["Alexander Thaller <alexander.thaller@trivago.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "0.7"
+bytes = "0.4"
+serde = "1"
+serde_derive = "1"
+futures = "0.1"
